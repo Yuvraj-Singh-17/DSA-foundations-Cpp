@@ -1,4 +1,4 @@
-# Question - if we have only 4 bits, How 3 and -6 will be written in 4 bits.
+# Question - if we have only 4 bits, How 3 and -6 will be written in 4 bits..
 
 Answer - 1.  3 is decimal its binary form is 11 to store in 4 bit - 0011
        - 2. -6 is decimal its binary form is 1010 to store in 4 bit - 1010
