@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    // Write substraction of two no.
+    // Write substractions of two no.
 
     int a , b ;
     cin >> a >> b ;
